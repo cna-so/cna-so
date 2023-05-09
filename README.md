@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **react , nextjs , js , ts and maybe go**
 
-- 📫 How to reach me **cna-so@outlook.com**
+- 📫 How to reach me **cna.so@outlook.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
