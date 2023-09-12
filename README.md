@@ -5,9 +5,9 @@
 
 <!-- <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cna-so" alt="cna-so" /></a> </p> -->
 
-- 🌱 I’m currently learning **golang and c++**
+- 🌱 I’m currently learning **c and c++**
 
-- 💬 Ask me about **react , nextjs , js , ts and maybe go**
+- 💬 Ask me about **react , nextjs , js , ts and go**
 
 - 📫 How to reach me **cna.so@outlook.com**
 
